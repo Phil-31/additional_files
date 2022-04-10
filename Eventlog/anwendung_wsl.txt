@@ -1,0 +1,57 @@
++ System 
+  - Provider 
+   [ Name]  MsiInstaller 
+  - EventID 1042 
+   [ Qualifiers]  0 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x80000000000000 
+  - TimeCreated 
+   [ SystemTime]  2021-10-05T16:23:43.7848021Z 
+   EventRecordID 994 
+   Correlation 
+  - Execution 
+   [ ProcessID]  0 
+   [ ThreadID]  0 
+   Channel Application 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+   C:\Users\student\AppData\Local\Temp\wsl_update_x64.msi 
+   3548 
+   (NULL) 
+   (NULL) 
+   (NULL) 
+   (NULL) 
+==========
++ System 
+  - Provider 
+   [ Name]  MsiInstaller 
+  - EventID 1040 
+   [ Qualifiers]  0 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x80000000000000 
+  - TimeCreated 
+   [ SystemTime]  2021-10-05T16:23:42.2067923Z 
+   EventRecordID 991 
+   Correlation 
+  - Execution 
+   [ ProcessID]  0 
+   [ ThreadID]  0 
+   Channel Application 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-21-2520300251-1238921206-4014661399-1002 
+- EventData 
+   C:\Users\student\AppData\Local\Temp\wsl_update_x64.msi 
+   3548 
+   (NULL) 
+   (NULL) 
+   (NULL) 
+   (NULL) 

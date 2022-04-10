@@ -1,0 +1,107 @@
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-11T09:24:35.6028993Z 
+   EventRecordID 8369 
+   Correlation 
+  - Execution 
+   [ ProcessID]  3448 
+   [ ThreadID]  4836 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-21-2520300251-1238921206-4014661399-1002 
+- EventData 
+  HiveNameLength 117 
+  HiveName \??\C:\Users\student\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\Settings\settings.dat 
+  KeysUpdated 1 
+  DirtyPages 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 44 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 12 
+   Keywords 0x8000000000002004 
+  - TimeCreated 
+   [ SystemTime]  2022-03-11T09:10:58.4083632Z 
+   EventRecordID 8258 
+  - Correlation 
+   [ ActivityID]  {63eeb1d1-3525-0000-4ac1-ee632535d801} 
+  - Execution 
+   [ ProcessID]  780 
+   [ ThreadID]  5928 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows 
+  updateGuid {767bf6e7-281e-4ee5-bdc7-805e2e6f0853} 
+  updateRevisionNumber 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 19 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 13 
+   Keywords 0x8000000000000018 
+  - TimeCreated 
+   [ SystemTime]  2022-03-07T15:42:49.5040575Z 
+   EventRecordID 8100 
+  - Correlation 
+   [ ActivityID]  {24398a9d-280c-0001-dcc3-3a240c28d801} 
+  - Execution 
+   [ ProcessID]  732 
+   [ ThreadID]  7284 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9N6SVWS3RX71-CanonicalGroupLimited.Ubuntu20.04onWindows 
+  updateGuid {08720963-b7c7-4d86-b67e-42a692455f3a} 
+  updateRevisionNumber 1 
+  serviceGuid {855e8a7c-ecb4-4ca3-b045-1dfa50104289} 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 43 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 13 
+   Keywords 0x8000000000002008 
+  - TimeCreated 
+   [ SystemTime]  2022-03-07T15:42:48.5511853Z 
+   EventRecordID 8098 
+   Correlation 
+  - Execution 
+   [ ProcessID]  732 
+   [ ThreadID]  7284 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9N6SVWS3RX71-CanonicalGroupLimited.Ubuntu20.04onWindows 
+  updateGuid {08720963-b7c7-4d86-b67e-42a692455f3a} 
+  updateRevisionNumber 1 

@@ -1,0 +1,377 @@
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-07T16:42:58.6766347Z 
+   EventRecordID 8105 
+   Correlation 
+  - Execution 
+   [ ProcessID]  732 
+   [ ThreadID]  6524 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  HiveNameLength 166 
+  HiveName \??\C:\ProgramData\Packages\KaliLinux.54290C8133FEE_ey8k8hqnwqnmg\S-1-5-21-2520300251-1238921206-4014661399-1002\SystemAppData\Helium\Cache\2c7be13f75f5b6b4_COM15.dat 
+  KeysUpdated 1 
+  DirtyPages 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-07T16:42:58.6714217Z 
+   EventRecordID 8104 
+   Correlation 
+  - Execution 
+   [ ProcessID]  732 
+   [ ThreadID]  6524 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  HiveNameLength 118 
+  HiveName \??\C:\Users\student\AppData\Local\Packages\KaliLinux.54290C8133FEE_ey8k8hqnwqnmg\SystemAppData\Helium\UserClasses.dat 
+  KeysUpdated 1 
+  DirtyPages 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-07T16:42:58.6661571Z 
+   EventRecordID 8103 
+   Correlation 
+  - Execution 
+   [ ProcessID]  732 
+   [ ThreadID]  6524 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  HiveNameLength 111 
+  HiveName \??\C:\Users\student\AppData\Local\Packages\KaliLinux.54290C8133FEE_ey8k8hqnwqnmg\SystemAppData\Helium\User.dat 
+  KeysUpdated 1 
+  DirtyPages 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 19 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 13 
+   Keywords 0x8000000000000018 
+  - TimeCreated 
+   [ SystemTime]  2022-03-07T15:37:39.7293111Z 
+   EventRecordID 8050 
+  - Correlation 
+   [ ActivityID]  {24398a9d-280c-0000-ab82-3a240c28d801} 
+  - Execution 
+   [ ProcessID]  732 
+   [ ThreadID]  4524 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9P32MWBH6CNS-46932SUSE.SUSELinuxEnterpriseServer12SP2 
+  updateGuid {ef5c2608-7ae9-476b-a3ec-0efa77b3ac42} 
+  updateRevisionNumber 1 
+  serviceGuid {855e8a7c-ecb4-4ca3-b045-1dfa50104289} 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-07T15:37:39.1889218Z 
+   EventRecordID 8048 
+   Correlation 
+  - Execution 
+   [ ProcessID]  188 
+   [ ThreadID]  4424 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-21-2520300251-1238921206-4014661399-1002 
+- EventData 
+  HiveNameLength 120 
+  HiveName \??\C:\Users\student\AppData\Local\Packages\46932SUSE.SUSELinuxEnterpriseServer12SP2_022rs5jcyhyac\Settings\settings.dat 
+  KeysUpdated 3 
+  DirtyPages 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 43 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 13 
+   Keywords 0x8000000000002008 
+  - TimeCreated 
+   [ SystemTime]  2022-03-07T15:37:39.0256117Z 
+   EventRecordID 8047 
+   Correlation 
+  - Execution 
+   [ ProcessID]  732 
+   [ ThreadID]  4524 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9P32MWBH6CNS-46932SUSE.SUSELinuxEnterpriseServer12SP2 
+  updateGuid {ef5c2608-7ae9-476b-a3ec-0efa77b3ac42} 
+  updateRevisionNumber 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 44 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 12 
+   Keywords 0x8000000000002004 
+  - TimeCreated 
+   [ SystemTime]  2022-03-07T15:33:22.9705793Z 
+   EventRecordID 8042 
+  - Correlation 
+   [ ActivityID]  {24398a9d-280c-0001-de9d-3a240c28d801} 
+  - Execution 
+   [ ProcessID]  732 
+   [ ThreadID]  1668 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9P32MWBH6CNS-46932SUSE.SUSELinuxEnterpriseServer12SP2 
+  updateGuid {ef5c2608-7ae9-476b-a3ec-0efa77b3ac42} 
+  updateRevisionNumber 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 19 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 13 
+   Keywords 0x8000000000000018 
+  - TimeCreated 
+   [ SystemTime]  2022-02-22T15:25:05.0566576Z 
+   EventRecordID 7833 
+  - Correlation 
+   [ ActivityID]  {59773cf8-239e-0000-b598-77599e23d801} 
+  - Execution 
+   [ ProcessID]  744 
+   [ ThreadID]  5660 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9PKR34TNCV07-KaliLinux.54290C8133FEE 
+  updateGuid {84baae4e-7903-454c-ae54-e7a7b21244fd} 
+  updateRevisionNumber 1 
+  serviceGuid {855e8a7c-ecb4-4ca3-b045-1dfa50104289} 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-02-22T15:25:04.2990829Z 
+   EventRecordID 7832 
+   Correlation 
+  - Execution 
+   [ ProcessID]  3768 
+   [ ThreadID]  4064 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-21-2520300251-1238921206-4014661399-1002 
+- EventData 
+  HiveNameLength 103 
+  HiveName \??\C:\Users\student\AppData\Local\Packages\KaliLinux.54290C8133FEE_ey8k8hqnwqnmg\Settings\settings.dat 
+  KeysUpdated 3 
+  DirtyPages 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 43 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 13 
+   Keywords 0x8000000000002008 
+  - TimeCreated 
+   [ SystemTime]  2022-02-22T15:25:04.0291526Z 
+   EventRecordID 7831 
+   Correlation 
+  - Execution 
+   [ ProcessID]  744 
+   [ ThreadID]  5660 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9PKR34TNCV07-KaliLinux.54290C8133FEE 
+  updateGuid {84baae4e-7903-454c-ae54-e7a7b21244fd} 
+  updateRevisionNumber 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 44 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 12 
+   Keywords 0x8000000000002004 
+  - TimeCreated 
+   [ SystemTime]  2022-02-22T15:21:19.8145374Z 
+   EventRecordID 7820 
+  - Correlation 
+   [ ActivityID]  {59773cf8-239e-0001-9d8a-77599e23d801} 
+  - Execution 
+   [ ProcessID]  744 
+   [ ThreadID]  6764 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9PKR34TNCV07-KaliLinux.54290C8133FEE 
+  updateGuid {84baae4e-7903-454c-ae54-e7a7b21244fd} 
+  updateRevisionNumber 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-02-22T15:20:02.5189475Z 
+   EventRecordID 7790 
+   Correlation 
+  - Execution 
+   [ ProcessID]  744 
+   [ ThreadID]  4428 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  HiveNameLength 174 
+  HiveName \??\C:\ProgramData\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\S-1-5-21-2520300251-1238921206-4014661399-1002\SystemAppData\Helium\Cache\272aaf432e2a3bf4_COM15.dat 
+  KeysUpdated 1 
+  DirtyPages 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-02-22T15:20:02.5147273Z 
+   EventRecordID 7789 
+   Correlation 
+  - Execution 
+   [ ProcessID]  744 
+   [ ThreadID]  4428 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  HiveNameLength 126 
+  HiveName \??\C:\Users\student\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\SystemAppData\Helium\UserClasses.dat 
+  KeysUpdated 1 
+  DirtyPages 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-02-22T15:20:02.5089110Z 
+   EventRecordID 7788 
+   Correlation 
+  - Execution 
+   [ ProcessID]  744 
+   [ ThreadID]  4428 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  HiveNameLength 119 
+  HiveName \??\C:\Users\student\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\SystemAppData\Helium\User.dat 
+  KeysUpdated 1 
+  DirtyPages 1 

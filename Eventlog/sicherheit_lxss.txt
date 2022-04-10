@@ -1,0 +1,305 @@
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Security-Auditing 
+   [ Guid]  {54849625-5478-4994-a5ba-3e3b0328c30d} 
+   EventID 4907 
+   Version 0 
+   Level 0 
+   Task 13568 
+   Opcode 0 
+   Keywords 0x8020000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-11T09:22:06.9351509Z 
+   EventRecordID 35829 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  2624 
+   Channel Security 
+   Computer DESKTOP-MAJAAHH 
+   Security 
+- EventData 
+  SubjectUserSid S-1-5-18 
+  SubjectUserName DESKTOP-MAJAAHH$ 
+  SubjectDomainName WORKGROUP 
+  SubjectLogonId 0x3e7 
+  ObjectServer Security 
+  ObjectType File 
+  ObjectName C:\Windows\SysWOW64\lxss\LxssManagerProxyStub.dll 
+  HandleId 0xb0 
+  OldSd S:AINO_ACCESS_CONTROL 
+  NewSd S:ARAI(AU;SAFA;DCLCRPCRSDWDWO;;;WD) 
+  ProcessId 0x1300 
+  ProcessName C:\Windows\System32\poqexec.exe 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Security-Auditing 
+   [ Guid]  {54849625-5478-4994-a5ba-3e3b0328c30d} 
+   EventID 4907 
+   Version 0 
+   Level 0 
+   Task 13568 
+   Opcode 0 
+   Keywords 0x8020000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-11T09:22:03.8746076Z 
+   EventRecordID 35531 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  116 
+   Channel Security 
+   Computer DESKTOP-MAJAAHH 
+   Security 
+- EventData 
+  SubjectUserSid S-1-5-18 
+  SubjectUserName DESKTOP-MAJAAHH$ 
+  SubjectDomainName WORKGROUP 
+  SubjectLogonId 0x3e7 
+  ObjectServer Security 
+  ObjectType File 
+  ObjectName C:\Windows\System32\lxss\LxssManagerProxyStub.dll 
+  HandleId 0xc8 
+  OldSd S:AINO_ACCESS_CONTROL 
+  NewSd S:ARAI(AU;SAFA;DCLCRPCRSDWDWO;;;WD) 
+  ProcessId 0x1300 
+  ProcessName C:\Windows\System32\poqexec.exe 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Security-Auditing 
+   [ Guid]  {54849625-5478-4994-a5ba-3e3b0328c30d} 
+   EventID 4907 
+   Version 0 
+   Level 0 
+   Task 13568 
+   Opcode 0 
+   Keywords 0x8020000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-11T09:22:03.8989597Z 
+   EventRecordID 35533 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  4840 
+   Channel Security 
+   Computer DESKTOP-MAJAAHH 
+   Security 
+- EventData 
+  SubjectUserSid S-1-5-18 
+  SubjectUserName DESKTOP-MAJAAHH$ 
+  SubjectDomainName WORKGROUP 
+  SubjectLogonId 0x3e7 
+  ObjectServer Security 
+  ObjectType File 
+  ObjectName C:\Windows\System32\lxss\wslhost.exe 
+  HandleId 0xb8 
+  OldSd S:AINO_ACCESS_CONTROL 
+  NewSd S:ARAI(AU;SAFA;DCLCRPCRSDWDWO;;;WD) 
+  ProcessId 0x1300 
+  ProcessName C:\Windows\System32\poqexec.exe 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Security-Auditing 
+   [ Guid]  {54849625-5478-4994-a5ba-3e3b0328c30d} 
+   EventID 4907 
+   Version 0 
+   Level 0 
+   Task 13568 
+   Opcode 0 
+   Keywords 0x8020000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-11T09:22:03.8894324Z 
+   EventRecordID 35532 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  116 
+   Channel Security 
+   Computer DESKTOP-MAJAAHH 
+   Security 
+- EventData 
+  SubjectUserSid S-1-5-18 
+  SubjectUserName DESKTOP-MAJAAHH$ 
+  SubjectDomainName WORKGROUP 
+  SubjectLogonId 0x3e7 
+  ObjectServer Security 
+  ObjectType File 
+  ObjectName C:\Windows\System32\lxss\wslclient.dll 
+  HandleId 0xc8 
+  OldSd S:AINO_ACCESS_CONTROL 
+  NewSd S:ARAI(AU;SAFA;DCLCRPCRSDWDWO;;;WD) 
+  ProcessId 0x1300 
+  ProcessName C:\Windows\System32\poqexec.exe 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Security-Auditing 
+   [ Guid]  {54849625-5478-4994-a5ba-3e3b0328c30d} 
+   EventID 4907 
+   Version 0 
+   Level 0 
+   Task 13568 
+   Opcode 0 
+   Keywords 0x8020000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-11T09:22:03.8635440Z 
+   EventRecordID 35530 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  116 
+   Channel Security 
+   Computer DESKTOP-MAJAAHH 
+   Security 
+- EventData 
+  SubjectUserSid S-1-5-18 
+  SubjectUserName DESKTOP-MAJAAHH$ 
+  SubjectDomainName WORKGROUP 
+  SubjectLogonId 0x3e7 
+  ObjectServer Security 
+  ObjectType File 
+  ObjectName C:\Windows\System32\lxss\LxssManager.dll 
+  HandleId 0xbc 
+  OldSd S:AINO_ACCESS_CONTROL 
+  NewSd S:ARAI(AU;SAFA;DCLCRPCRSDWDWO;;;WD) 
+  ProcessId 0x1300 
+  ProcessName C:\Windows\System32\poqexec.exe 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Security-Auditing 
+   [ Guid]  {54849625-5478-4994-a5ba-3e3b0328c30d} 
+   EventID 4907 
+   Version 0 
+   Level 0 
+   Task 13568 
+   Opcode 0 
+   Keywords 0x8020000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-11T09:21:55.8684230Z 
+   EventRecordID 34764 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  4436 
+   Channel Security 
+   Computer DESKTOP-MAJAAHH 
+   Security 
+- EventData 
+  SubjectUserSid S-1-5-18 
+  SubjectUserName DESKTOP-MAJAAHH$ 
+  SubjectDomainName WORKGROUP 
+  SubjectLogonId 0x3e7 
+  ObjectServer Security 
+  ObjectType File 
+  ObjectName C:\Windows\WinSxS\FileMaps\$$_system32_lxss_tools_74d567c39048f17f.cdf-ms 
+  HandleId 0x7c 
+  OldSd  
+  NewSd S:ARAI(AU;SAFA;0x1f0116;;;WD) 
+  ProcessId 0x1300 
+  ProcessName C:\Windows\System32\poqexec.exe 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Security-Auditing 
+   [ Guid]  {54849625-5478-4994-a5ba-3e3b0328c30d} 
+   EventID 4907 
+   Version 0 
+   Level 0 
+   Task 13568 
+   Opcode 0 
+   Keywords 0x8020000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-11T09:21:55.8650383Z 
+   EventRecordID 34763 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  4436 
+   Channel Security 
+   Computer DESKTOP-MAJAAHH 
+   Security 
+- EventData 
+  SubjectUserSid S-1-5-18 
+  SubjectUserName DESKTOP-MAJAAHH$ 
+  SubjectDomainName WORKGROUP 
+  SubjectLogonId 0x3e7 
+  ObjectServer Security 
+  ObjectType File 
+  ObjectName C:\Windows\WinSxS\FileMaps\$$_system32_lxss_066555c1df2fab48.cdf-ms 
+  HandleId 0x7c 
+  OldSd  
+  NewSd S:ARAI(AU;SAFA;0x1f0116;;;WD) 
+  ProcessId 0x1300 
+  ProcessName C:\Windows\System32\poqexec.exe 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Security-Auditing 
+   [ Guid]  {54849625-5478-4994-a5ba-3e3b0328c30d} 
+   EventID 4907 
+   Version 0 
+   Level 0 
+   Task 13568 
+   Opcode 0 
+   Keywords 0x8020000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-03-11T09:21:55.0583736Z 
+   EventRecordID 34689 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  116 
+   Channel Security 
+   Computer DESKTOP-MAJAAHH 
+   Security 
+- EventData 
+  SubjectUserSid S-1-5-18 
+  SubjectUserName DESKTOP-MAJAAHH$ 
+  SubjectDomainName WORKGROUP 
+  SubjectLogonId 0x3e7 
+  ObjectServer Security 
+  ObjectType File 
+  ObjectName C:\Windows\WinSxS\FileMaps\$$_syswow64_lxss_1bf24533bb30d910.cdf-ms 
+  HandleId 0x84 
+  OldSd  
+  NewSd S:ARAI(AU;SAFA;0x1f0116;;;WD) 
+  ProcessId 0x1300 
+  ProcessName C:\Windows\System32\poqexec.exe 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Security-Auditing 
+   [ Guid]  {54849625-5478-4994-a5ba-3e3b0328c30d} 
+   EventID 4907 
+   Version 0 
+   Level 0 
+   Task 13568 
+   Opcode 0 
+   Keywords 0x8020000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-02-07T19:19:44.1069224Z 
+   EventRecordID 30955 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  7664 
+   Channel Security 
+   Computer DESKTOP-MAJAAHH 
+   Security 
+- EventData 
+  SubjectUserSid S-1-5-18 
+  SubjectUserName DESKTOP-MAJAAHH$ 
+  SubjectDomainName WORKGROUP 
+  SubjectLogonId 0x3e7 
+  ObjectServer Security 
+  ObjectType File 
+  ObjectName C:\Windows\System32\lxss\tools\init 
+  HandleId 0x90 
+  OldSd S:AINO_ACCESS_CONTROL 
+  NewSd S:ARAI(AU;SAFA;DCLCRPCRSDWDWO;;;WD) 
+  ProcessId 0xcd0 
+  ProcessName C:\Windows\System32\poqexec.exe 

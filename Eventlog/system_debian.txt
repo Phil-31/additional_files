@@ -1,0 +1,80 @@
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-02-22T15:20:02.5189475Z 
+   EventRecordID 7790 
+   Correlation 
+  - Execution 
+   [ ProcessID]  744 
+   [ ThreadID]  4428 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  HiveNameLength 174 
+  HiveName \??\C:\ProgramData\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\S-1-5-21-2520300251-1238921206-4014661399-1002\SystemAppData\Helium\Cache\272aaf432e2a3bf4_COM15.dat 
+  KeysUpdated 1 
+  DirtyPages 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-02-22T15:20:02.5147273Z 
+   EventRecordID 7789 
+   Correlation 
+  - Execution 
+   [ ProcessID]  744 
+   [ ThreadID]  4428 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  HiveNameLength 126 
+  HiveName \??\C:\Users\student\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\SystemAppData\Helium\UserClasses.dat 
+  KeysUpdated 1 
+  DirtyPages 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Kernel-General 
+   [ Guid]  {a68ca8b7-004f-d7b6-a698-07e2de0f1f5d} 
+   EventID 16 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000000 
+  - TimeCreated 
+   [ SystemTime]  2022-02-22T15:20:02.5089110Z 
+   EventRecordID 7788 
+   Correlation 
+  - Execution 
+   [ ProcessID]  744 
+   [ ThreadID]  4428 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  HiveNameLength 119 
+  HiveName \??\C:\Users\student\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\SystemAppData\Helium\User.dat 
+  KeysUpdated 1 
+  DirtyPages 1 
