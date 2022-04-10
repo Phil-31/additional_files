@@ -1,0 +1,262 @@
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Hyper-V-VmSwitch 
+   [ Guid]  {67dc0d66-3695-47c0-9642-33f76f7bd7ad} 
+   EventID 233 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000080 
+  - TimeCreated 
+   [ SystemTime]  2022-03-15T11:57:25.9400181Z 
+   EventRecordID 8828 
+   Correlation 
+  - Execution 
+   [ ProcessID]  64 
+   [ ThreadID]  1796 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  NicNameLen 36 
+  NicName 45E4B691-5A3F-4BFE-AAE7-DCD1CE4EC038 
+  NicFNameLen 3 
+  NicFName WSL 
+  Operation 8 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Hyper-V-VmSwitch 
+   [ Guid]  {67dc0d66-3695-47c0-9642-33f76f7bd7ad} 
+   EventID 62 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000081 
+  - TimeCreated 
+   [ SystemTime]  2022-03-15T11:57:25.2084090Z 
+   EventRecordID 8827 
+   Correlation 
+  - Execution 
+   [ ProcessID]  64 
+   [ ThreadID]  1796 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  SwitchNameLen 36 
+  SwitchName 0EAD7A1A-D416-433F-B33B-08C2752F1BAF 
+  SwitchFNameLen 3 
+  SwitchFName WSL 
+  Flags 9 
+  OwnerService 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Hyper-V-VmSwitch 
+   [ Guid]  {67dc0d66-3695-47c0-9642-33f76f7bd7ad} 
+   EventID 233 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000080 
+  - TimeCreated 
+   [ SystemTime]  2022-03-15T11:57:25.2081832Z 
+   EventRecordID 8826 
+   Correlation 
+  - Execution 
+   [ ProcessID]  64 
+   [ ThreadID]  1796 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  NicNameLen 36 
+  NicName 0EAD7A1A-D416-433F-B33B-08C2752F1BAF 
+  NicFNameLen 3 
+  NicFName WSL 
+  Operation 8 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Hyper-V-VmSwitch 
+   [ Guid]  {67dc0d66-3695-47c0-9642-33f76f7bd7ad} 
+   EventID 7 
+   Version 0 
+   Level 4 
+   Task 1004 
+   Opcode 0 
+   Keywords 0x8000000000000080 
+  - TimeCreated 
+   [ SystemTime]  2022-03-15T11:56:57.0950211Z 
+   EventRecordID 8792 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  300 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  NicNameLen 36 
+  NicName 45E4B691-5A3F-4BFE-AAE7-DCD1CE4EC038 
+  NicFNameLen 3 
+  NicFName WSL 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Hyper-V-VmSwitch 
+   [ Guid]  {67dc0d66-3695-47c0-9642-33f76f7bd7ad} 
+   EventID 5 
+   Version 0 
+   Level 4 
+   Task 1003 
+   Opcode 0 
+   Keywords 0x8000000000000080 
+  - TimeCreated 
+   [ SystemTime]  2022-03-15T11:56:56.3731871Z 
+   EventRecordID 8784 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  188 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  NicNameLen 36 
+  NicName 45E4B691-5A3F-4BFE-AAE7-DCD1CE4EC038 
+  NicFNameLen 3 
+  NicFName WSL 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Hyper-V-VmSwitch 
+   [ Guid]  {67dc0d66-3695-47c0-9642-33f76f7bd7ad} 
+   EventID 232 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000080 
+  - TimeCreated 
+   [ SystemTime]  2022-03-15T11:56:56.3731849Z 
+   EventRecordID 8783 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  188 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  NicNameLen 36 
+  NicName 45E4B691-5A3F-4BFE-AAE7-DCD1CE4EC038 
+  NicFNameLen 3 
+  NicFName WSL 
+  PortNameLen 36 
+  PortName 366E89A5-439C-4C8D-AF33-C5867F592A1E 
+  PortFNameLen 22 
+  PortFName Container NIC a1318e27 
+  SwitchNameLen 36 
+  SwitchName 0EAD7A1A-D416-433F-B33B-08C2752F1BAF 
+  SwitchFNameLen 3 
+  SwitchFName WSL 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Hyper-V-VmSwitch 
+   [ Guid]  {67dc0d66-3695-47c0-9642-33f76f7bd7ad} 
+   EventID 233 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000080 
+  - TimeCreated 
+   [ SystemTime]  2022-03-15T11:56:56.3729737Z 
+   EventRecordID 8782 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  188 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+   Security 
+- EventData 
+  NicNameLen 36 
+  NicName 45E4B691-5A3F-4BFE-AAE7-DCD1CE4EC038 
+  NicFNameLen 3 
+  NicFName WSL 
+  Operation 7 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Hyper-V-VmSwitch 
+   [ Guid]  {67dc0d66-3695-47c0-9642-33f76f7bd7ad} 
+   EventID 264 
+   Version 0 
+   Level 4 
+   Task 0 
+   Opcode 0 
+   Keywords 0x8000000000000080 
+  - TimeCreated 
+   [ SystemTime]  2022-03-15T11:56:56.3723858Z 
+   EventRecordID 8777 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  188 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  PortNameLen 36 
+  PortName 366E89A5-439C-4C8D-AF33-C5867F592A1E 
+  PortFNameLen 22 
+  PortFName Container NIC a1318e27 
+  SwitchNameLen 36 
+  SwitchName 0EAD7A1A-D416-433F-B33B-08C2752F1BAF 
+  SwitchFNameLen 3 
+  SwitchFName WSL 
+  Flags 1 
+  OwnerService 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-Hyper-V-VmSwitch 
+   [ Guid]  {67dc0d66-3695-47c0-9642-33f76f7bd7ad} 
+   EventID 9 
+   Version 0 
+   Level 4 
+   Task 1005 
+   Opcode 0 
+   Keywords 0x8000000000000080 
+  - TimeCreated 
+   [ SystemTime]  2022-03-15T11:56:56.3722406Z 
+   EventRecordID 8776 
+   Correlation 
+  - Execution 
+   [ ProcessID]  4 
+   [ ThreadID]  188 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  SwitchNameLen 36 
+  SwitchName 0EAD7A1A-D416-433F-B33B-08C2752F1BAF 
+  SwitchFNameLen 3 
+  SwitchFName WSL 
+  Flags 64 
+  OwnerService 1 
