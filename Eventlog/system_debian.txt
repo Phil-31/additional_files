@@ -78,3 +78,84 @@
   HiveName \??\C:\Users\student\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\SystemAppData\Helium\User.dat 
   KeysUpdated 1 
   DirtyPages 1 
+  ==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 44 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 12 
+   Keywords 0x8000000000002004 
+  - TimeCreated 
+   [ SystemTime]  2021-10-05T15:19:26.6324381Z 
+   EventRecordID 1253 
+  - Correlation 
+   [ ActivityID]  {1b9ad24e-b9fa-0001-12f4-9a1bfab9d701} 
+  - Execution 
+   [ ProcessID]  860 
+   [ ThreadID]  3148 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9MSVKQC78PK6-TheDebianProject.DebianGNULinux 
+  updateGuid {22a6ef04-4604-46fc-bbc8-f6e42c1b6625} 
+  updateRevisionNumber 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 43 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 13 
+   Keywords 0x8000000000002008 
+  - TimeCreated 
+   [ SystemTime]  2021-10-05T15:19:51.3773421Z 
+   EventRecordID 1254 
+   Correlation 
+  - Execution 
+   [ ProcessID]  860 
+   [ ThreadID]  2748 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9MSVKQC78PK6-TheDebianProject.DebianGNULinux 
+  updateGuid {22a6ef04-4604-46fc-bbc8-f6e42c1b6625} 
+  updateRevisionNumber 1 
+==========
++ System 
+  - Provider 
+   [ Name]  Microsoft-Windows-WindowsUpdateClient 
+   [ Guid]  {945a8954-c147-4acd-923f-40c45405a658} 
+   EventID 19 
+   Version 1 
+   Level 4 
+   Task 1 
+   Opcode 13 
+   Keywords 0x8000000000000018 
+  - TimeCreated 
+   [ SystemTime]  2021-10-05T15:19:52.3447927Z 
+   EventRecordID 1255 
+  - Correlation 
+   [ ActivityID]  {1b9ad24e-b9fa-0001-04f6-9a1bfab9d701} 
+  - Execution 
+   [ ProcessID]  860 
+   [ ThreadID]  2748 
+   Channel System 
+   Computer DESKTOP-MAJAAHH 
+  - Security 
+   [ UserID]  S-1-5-18 
+- EventData 
+  updateTitle 9MSVKQC78PK6-TheDebianProject.DebianGNULinux 
+  updateGuid {22a6ef04-4604-46fc-bbc8-f6e42c1b6625} 
+  updateRevisionNumber 1 
+  serviceGuid {855e8a7c-ecb4-4ca3-b045-1dfa50104289} 
