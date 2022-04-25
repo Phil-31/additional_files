@@ -139,7 +139,7 @@ sub pluginmain {
 	::rptMsg("-------------------------------------");
 	::rptMsg("Total Indicators of WSL: ".$indicator_counter);
 	::rptMsg("-------------------------------------");
-	::rptMsg("Following WSL Distros where detected:");
+	::rptMsg("Following WSL Distros were detected:");
 	foreach my $distro (@distrolist){
 		::rptMsg("   ".$distro);
 	}
